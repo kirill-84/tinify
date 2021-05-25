@@ -59,7 +59,7 @@ foreach ($urls as $key => $url)
 
     // After upload image, comment out
     $fstreams[$key] = fopen($filepath, 'w');
-    curl_setopt($requests[$key], CURLOPT_FILE, $fstreams[$key]);*/
+    curl_setopt($requests[$key], CURLOPT_FILE, $fstreams[$key]);
     // stop comment out
 
     // Add cURL object to multi-handle
