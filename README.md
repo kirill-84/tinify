@@ -1,3 +1,3 @@
 # tinify
 
-The Tinify API allows you to compress and optimize JPEG and PNG images.
+Создание набора cURL-дескрипторов и оптимизация изображений с помощью API Tinify.
