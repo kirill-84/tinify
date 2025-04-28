@@ -1,5 +1,7 @@
 <?
-
+/**
+ * TinyPNG uses smart lossy compression techniques to reduce the file size of your WEBP, JPEG and PNG files.
+ **/
 require_once("lib/Tinify/Exception.php");
 require_once("lib/Tinify/ResultMeta.php");
 require_once("lib/Tinify/Result.php");
